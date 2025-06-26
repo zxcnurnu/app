@@ -1,0 +1,5 @@
+﻿[siteSportGo]
+php_engine = php-8.1
+
+
+
